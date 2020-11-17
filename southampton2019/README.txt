@@ -1,17 +1,27 @@
-README Image-Folder "images/"
+README AudioSlides4Web
+----------------------
 
-Copy all of your image files in this folder "images/"
+You can create your own AudioSlides4Web presentation with: 
+  URL: https://niebert.github.io/audioslides4web
+You can run AudioSlides4Web creator offline as AppLSAC. 
 
- - /images/img0.png
+
+README Image-Folder "Image/"
+
+Copy or replace all of your image in this folder "Image/"
+
+ - /Image/img0.png
  - ...
- - /images/img13.png
+ - /Image/img13.png
 
 
-README Audio-Folder "audio/"
 
-Copy all of your audio files in this folder "audio/"
 
- - /audio/audio0.mp3
+README Audio-Folder "Audio/"
+
+Copy or replace all of your audio in this folder "Audio/"
+
+ - /Audio/audio0.mp3
  - ...
- - /audio/audio13.mp3
+ - /Audio/audio13.mp3
 
